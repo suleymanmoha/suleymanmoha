@@ -29,38 +29,29 @@ I'm a Computer Science student at Masinde Muliro University of Science and Techn
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 
+
 ---
 
 ## 🚀 Featured Projects
 
-### 🌦️ Weather App
-A responsive weather application built with React and Tailwind CSS. Uses the Open-Meteo API to retrieve weather information for searched cities.
+### ⚽ [Rashid Abdallah Super Cup](https://github.com/suleymanmoha/rashid-abdallah-supacup)
+A football tournament website project focused on presenting teams, fixtures, results, standings, and tournament information.
 
-**Key features**
-- City search and current weather information
-- Temperature, humidity, wind speed, and feels-like temperature
-- Loading states and error handling
+**Tech stack:** React · JavaScript · Tailwind CSS
 
-**Technologies:** React · JavaScript · Tailwind CSS · Open-Meteo API
+[View source code →](https://github.com/suleymanmoha/rashid-abdallah-supacup)
 
-### ✅ To-Do App
-A task management application built with React and Tailwind CSS to practice state management and interactive user interfaces.
+### ✅ [To-Do List App](https://github.com/suleymanmoha/TodoList)
+A task management application with task creation, editing, deletion, completion tracking, status filters, priorities, and progress statistics.
 
-**Key features**
-- Add, edit, and delete tasks
-- Mark tasks as completed
-- Filter tasks by status
-- Set task priorities and track progress
+**Tech stack:** React · JavaScript · Tailwind CSS
 
-**Technologies:** React · JavaScript · Tailwind CSS
+[View source code →](https://github.com/suleymanmoha/TodoList)
 
-### ⚽ Rashid Abdalla Super Cup
-A football tournament website project designed to present competition information in an organized, responsive interface.
+### 🔢 [Counter App](https://github.com/suleymanmoha/CounterApp)
+A React practice project for learning state management, interactive controls, and theme switching.
 
-**Planned sections**
-- Teams and players
-- Fixtures and results
-- Standings and top scorers
-- News, gallery, and tournament information
+**Tech stack:** React · JavaScript · Tailwind CSS
 
-**Technologies:** React · JavaScript · Tailwind CSS
+[View source code →](https://github.com/suleymanmoha/CounterApp)
+
