@@ -55,3 +55,13 @@ A React practice project for learning state management, interactive controls, an
 
 [View source code →](https://github.com/suleymanmoha/CounterApp)
 
+
+---
+
+## 🤝 Connect With Me
+
+I'm always interested in learning, building useful software, and collaborating on projects.
+
+- 💻 GitHub: [@suleymanmoha](https://github.com/suleymanmoha)
+- 📧 Email: suleymanmoha5566@gmail.com
+
