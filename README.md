@@ -27,3 +27,40 @@ I'm a Computer Science student at Masinde Muliro University of Science and Techn
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+
+---
+
+## 🚀 Featured Projects
+
+### 🌦️ Weather App
+A responsive weather application built with React and Tailwind CSS. Uses the Open-Meteo API to retrieve weather information for searched cities.
+
+**Key features**
+- City search and current weather information
+- Temperature, humidity, wind speed, and feels-like temperature
+- Loading states and error handling
+
+**Technologies:** React · JavaScript · Tailwind CSS · Open-Meteo API
+
+### ✅ To-Do App
+A task management application built with React and Tailwind CSS to practice state management and interactive user interfaces.
+
+**Key features**
+- Add, edit, and delete tasks
+- Mark tasks as completed
+- Filter tasks by status
+- Set task priorities and track progress
+
+**Technologies:** React · JavaScript · Tailwind CSS
+
+### ⚽ Rashid Abdalla Super Cup
+A football tournament website project designed to present competition information in an organized, responsive interface.
+
+**Planned sections**
+- Teams and players
+- Fixtures and results
+- Standings and top scorers
+- News, gallery, and tournament information
+
+**Technologies:** React · JavaScript · Tailwind CSS
